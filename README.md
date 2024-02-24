@@ -1,4 +1,4 @@
-Hi there👋, I’m Ayda
+	Hi there👋, I’m Ayda
 
 - 🙋🏻‍♀️ Second year IT-student at [KTH](https://www.kth.se)
 - 👩🏻‍💻 Currently working on my school projects
