@@ -2,7 +2,7 @@
 
 - 🙋🏻‍♀️ Second year IT-student at [KTH](https://www.kth.se)
 - 👩🏻‍💻 Currently working on my school projects
-- - 👅 I can speak in : Java, Python, Elixir, Prolog, C, and some Assembly
+- 👅 I can speak in : Java, Python, Elixir, Prolog, C, and some Assembly
 - 📫 You can contact me at aydag@kth.se
 
 
